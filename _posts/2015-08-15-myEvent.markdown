@@ -1,6 +1,6 @@
 ---
 title: Data Open Space
-text: Guest Speaker, Stuart Lynn of Carto DB; Lessons; Work in teams on predictive modeling.
+text: Visualizing Data; Lessons; Work in teams on predictive modeling.
 location: Panera, River Forest, IL 10:30am
 link: https://github.com/dataopenspace/studyGroup/issues/10
 date: 2015-08-15
