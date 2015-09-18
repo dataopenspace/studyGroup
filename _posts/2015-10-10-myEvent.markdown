@@ -1,0 +1,7 @@
+---
+title: Data Open Space
+text: Intro to Git, team data projects, algorithms & tools, collaborative coding
+location: Panera, River Forest,IL 10:30am
+link: https://github.com/dataopenspace/studyGroup/issues/13
+date: 2015-10-10
+---
