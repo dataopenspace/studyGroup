@@ -1,7 +1,9 @@
 ---
 title: Hacky Hour (Python for Data Science)
-text: Sign up [here](http://meetup.com/datahackchi)
+text: Python for Data Science
 location: tbd 9:30am
 link: https://github.com/dataopenspace/studyGroup/issues/18
 date: 2016-01-24
 ---
+
+Sign up [here](http://meetup.com/datahackchi)
