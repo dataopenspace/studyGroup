@@ -5,5 +5,5 @@ Welcome to [Data Open Space](http://dataopenspace.github.io/studyGroup)! Data Op
 
 How to participate:
 * "Watch" us on Github. Don't worry if you are new to Github. Sign up and click the Watch button in the top right corner and you will receive email updates on our events and other activities. This is a great way to particpate remotely in our team projects.
-* Sign up for events [here](meetup.com/datahackchi). We will provide information on upcoming events, group projects, and other goodies.
+* Sign up for events [here](http://meetup.com/datahackchi). We will provide information on upcoming events, group projects, and other goodies.
 
